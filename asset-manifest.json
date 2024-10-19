@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devilthecoder1123/bit-scale/static/css/main.adc22e11.css",
+    "main.js": "/devilthecoder1123/bit-scale/static/js/main.a7c0b851.js",
+    "static/js/453.ecbf86b1.chunk.js": "/devilthecoder1123/bit-scale/static/js/453.ecbf86b1.chunk.js",
+    "index.html": "/devilthecoder1123/bit-scale/index.html",
+    "main.adc22e11.css.map": "/devilthecoder1123/bit-scale/static/css/main.adc22e11.css.map",
+    "main.a7c0b851.js.map": "/devilthecoder1123/bit-scale/static/js/main.a7c0b851.js.map",
+    "453.ecbf86b1.chunk.js.map": "/devilthecoder1123/bit-scale/static/js/453.ecbf86b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adc22e11.css",
+    "static/js/main.a7c0b851.js"
+  ]
+}
